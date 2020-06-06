@@ -1,0 +1,68 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Fantastic Orange Tree",
+          "price": 24.99,
+          "image": { "fields": { "file": { "url": "./images/product-1.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "Bell Peppers",
+          "price": 7.99,
+          "image": { "fields": { "file": { "url": "./images/product-2.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Purple Carrots",
+          "price": 13.99,
+          "image": { "fields": { "file": { "url": "./images/product-3.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Ugly Carrots",
+          "price": 100.00,
+          "image": { "fields": { "file": { "url": "./images/product-4.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Bean Medley",
+          "price": 58.97,
+          "image": { "fields": { "file": { "url": "./images/product-5.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Lackluster Limes",
+          "price": 1.28,
+          "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "Tasty Tomatoes",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "A Single Strawberry",
+          "price": 34.88,
+          "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+        }
+      }
+    ]
+  }
